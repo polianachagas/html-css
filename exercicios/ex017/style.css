@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /*Medidas absolutas: cm, mm, in (polegada), px (pixel), pt (ponto), pc
+    
+    Medidas relativas: em, ex, rem, vw, vh, %
+    16px = 1em*/
+    font-size: 16px;
+
+    /*shorthand font:
+    font: font-style font-weight font-size font-family*/
+}

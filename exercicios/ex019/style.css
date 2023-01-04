@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+/*  id      = #
+    class   = .*/
+
+body {
+    background-color: #F2C9DE;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #705D67;
+}
+
+h1#principal {
+    text-align: center;
+    background-color: #703B57;
+    color: #F080BA;
+}
+
+h2 {
+    color: #BD6492
+}
+
+h2.basico {
+    color: #854767;
+}
+
+h2.intermediario {
+    color: #5c3146;
+}
+
+h2.avancado {
+    color: #301925;
+}
